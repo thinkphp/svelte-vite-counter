@@ -29,7 +29,7 @@
 
 <div class="container">
 	<header>
-		<h1>Counter</h1>
+		<h1>Counter Svelte</h1>
 	</header>
 
 	<main>
